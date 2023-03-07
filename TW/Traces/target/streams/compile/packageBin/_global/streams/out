@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/DenkoV/Prog/Scala/TW/Traces/target/scala-2.13/traces_2.13-0.1.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	traces[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/DenkoV/Prog/Scala/TW/Traces/target/scala-2.13/classes/traces[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	traces/Data.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/DenkoV/Prog/Scala/TW/Traces/target/scala-2.13/classes/traces/Data.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	traces/General$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/DenkoV/Prog/Scala/TW/Traces/target/scala-2.13/classes/traces/General$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	traces/General.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/DenkoV/Prog/Scala/TW/Traces/target/scala-2.13/classes/traces/General.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	traces/Productions.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/DenkoV/Prog/Scala/TW/Traces/target/scala-2.13/classes/traces/Productions.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J
